@@ -1,0 +1,7 @@
+Hometown Hardware
+09/30/2026
+Hammer 15.99
+Nails 4.50
+Subtotal 20.49
+Tax 1.23
+Total 25.00
